@@ -1,5 +1,5 @@
 # healthcare
-Healthcare web app
+Healthcare web app with c# backend
 The healthcare web app would be used by medical professionals and administrators to track patient records, manage appointments, and facilitate internal communications.
 
 Functional Requirements:
