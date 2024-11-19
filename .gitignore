@@ -1,0 +1,68 @@
+# Ignore build output directories
+bin/
+obj/
+
+# User-specific files
+.vscode/
+.idea/
+
+# ASP.NET Core
+wwwroot/
+
+# Configuration files
+appsettings.json
+appsettings.Development.json
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer logs
+*.log
+
+# .NET Core files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# User-specific files
+# .vs2017/ .vs2019/ .vs2022/
+.vs/
+
+# JetBrains Rider
+.idea/
+
+# ASP.NET Core Secrets
+secrets.json
+
+# MacOS
+.DS_Store
+
+# Linux
+*~
+
+# NPM dependencies
+node_modules/
+
+# Docker
+docker-compose.override.yml
+
+# Coverage files
+coverage/
+
+# JetBrains IDEs
+.idea/
+
+# Temporary files
+tmp/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Microsoft Visual Studio for Mac
+.vscode/
